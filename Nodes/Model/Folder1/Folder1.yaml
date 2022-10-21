@@ -1,0 +1,14 @@
+Name: Folder1
+Type: FolderType
+Children:
+- Name: Variable1
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Object1
+  Type: BaseObjectType
+  Children:
+  - Name: objectvariable1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 56
