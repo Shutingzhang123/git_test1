@@ -104,6 +104,11 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 70.0
+    - Name: TextColor
+      Type: BaseDataVariableType
+      DataType: Color
+      ModellingRule: Optional
+      Value: "#e32121"
   - Name: Label1
     Type: Label
     Children:
