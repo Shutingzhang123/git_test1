@@ -76,12 +76,12 @@ Children:
     Type: BaseDataVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 400.0
+    Value: 800.0
   - Name: Height
     Type: BaseDataVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 400.0
+    Value: 800.0
   - Name: TextBox1
     Type: TextBox
     Children:
