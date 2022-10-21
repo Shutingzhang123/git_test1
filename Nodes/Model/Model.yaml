@@ -15,10 +15,5 @@ Children:
   Type: BaseDataVariableType
   DataType: Int32
   Value: 0
-- Name: Variable2
-  Id: g=472b4730753ab429b5a0712bd6a621a1
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
 - File: Folder11/Folder11.yaml
 - File: Folder2/Folder2.yaml
