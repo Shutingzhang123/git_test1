@@ -11,9 +11,5 @@ Children:
   DataType: Int32
   Value: 0
 - File: Folder1/Folder1.yaml
-- Name: Variable2
-  Type: BaseDataVariableType
-  DataType: Int32
-  Value: 0
 - File: Folder11/Folder11.yaml
 - File: Folder2/Folder2.yaml
