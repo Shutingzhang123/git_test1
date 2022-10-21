@@ -12,3 +12,7 @@ Children:
     Type: BaseDataVariableType
     DataType: Int32
     Value: 56
+  - Name: objectvariable2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 33
