@@ -93,7 +93,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 110.0
+      Value: 200.0
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -103,7 +103,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 72.0
+      Value: 70.0
   - Name: Label1
     Type: Label
     Children:
