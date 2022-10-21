@@ -133,7 +133,7 @@ Children:
     - Name: Text
       Type: BaseDataVariableType
       DataType: LocalizedText
-      Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+      Value: {"LocaleId":"en-US","Text":"This a textbox2 and add text and change color"}
     - Name: Width
       Type: BaseVariableType
       DataType: Size
@@ -149,3 +149,8 @@ Children:
       DataType: Size
       ModellingRule: Optional
       Value: 335.0
+    - Name: TextColor
+      Type: BaseDataVariableType
+      DataType: Color
+      ModellingRule: Optional
+      Value: "#ec2828"
